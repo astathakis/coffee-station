@@ -396,7 +396,11 @@ span {
 }
 .about-img,
 .about-info {
-  padding: 2rem 0;
+  padding: 1.4remrem 0;
+}
+
+.about-section .section-center {
+  padding-bottom: 0;
 }
 
 .about-picture-container {
